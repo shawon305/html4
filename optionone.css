@@ -3,7 +3,7 @@
 
 Body {
 	
-	background-image: url("images/watercolorblue.jpg"); 
+	background-image: url("images/watercolor.png"); 
 	background-repeat: no-repeat;
 	background-size: cover;
 }
@@ -67,8 +67,9 @@ nav a:hover {
 	margin-bottom: 20px;
 }
 footer {
-	text-decoration-line: overline;
 	text-align: center;
+	border: medium;
+	background-color: cadetblue;
 	clear: both;
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	}
